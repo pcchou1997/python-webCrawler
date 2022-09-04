@@ -3,5 +3,5 @@
   將排行榜內容依照4個主分類：{'預購榜', '暢銷榜', '即時榜', '新書榜'} 與 2個小分類：{'7日暢銷榜', '30日暢銷榜'} 分別擷取下來，
   細項包含{'TOP'(排名), 'bookname'(書名), 'author'(作者), 'discount'(折扣率), 'price'(價格)} 5個書籍資訊。
   
-# BestSellerSearchRanking-Books.py
+# BestSellerRankingSearch-Books.py
   作為上例爬蟲資料的延伸，針對只需閱讀部分排行榜名稱之使用者，可以透過輸入指定排行榜名稱得出較精準內容，避免資料過多造成閱讀不易。
